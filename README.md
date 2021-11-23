@@ -1,1 +1,1 @@
-echo "# Fin4teenWeb" 
+Fin4teenWeb
