@@ -2200,7 +2200,7 @@ ol {
 }
 
 .hero-area .hero-image img {
-  width: 400px;
+  width: 300px;
 }
 
 /*======================================
@@ -2632,4 +2632,14 @@ ol {
 
 .footer .copyright-area p a:hover {
   color: #2ed06e;
+}
+
+.imagem1{
+  width: 300px !important;
+  max-width: 35% !important;
+}
+
+.imagem2{
+  width: 300px !important;
+
 }
